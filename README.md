@@ -42,7 +42,7 @@ https://github.com/mez-0/DecryptRDCManager
 
 
 DesertNut.exe
-https://github.com/rvrsh3ll/Sharp-Suite/tree/master/DesertNutDesertNut.exe
+https://github.com/rvrsh3ll/Sharp-Suite/tree/master/DesertNut
 
 EDRQuery.exe
 https://github.com/PwnDexter/SharpEDRChecker
